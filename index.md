@@ -7,5 +7,6 @@ If you see that it is interesting but there is a page missing, create a PR with 
 ### Websites
 
 - [Website with three frames (deprecated)](webs/frames.html)
-- [Website with anchor in new window](webs/new-window-js.html)
+- [Website with button in new window](webs/new-window-js.html)
+- [Website with anchor in new window](webs/new-window-blank.html)
 
