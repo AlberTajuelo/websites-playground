@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Random button</h1>
+
+<p>It will generate a random button with "btn-XXX"</p>
+
+<script>
+
+let btn = document.createElement("button");
+btn.innerHTML = "Click Me";
+btn.setAttribute("id", "btn-" + parseInt(getRandomArbitrary(0, 999)));
+document.body.appendChild(btn);
+
+function getRandomArbitrary(min, max) {
+  return Math.random() * (max - min) + min;
+}
+</script>
+
+</body>
+</html>
