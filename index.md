@@ -21,8 +21,9 @@ If you see that it is interesting but there is a page missing, create a PR with 
 - [Button with random id (XXX-btn-YYY)](webs/random-elements-2.html)
 - [Button with random id (XXX-btn)](webs/random-elements-3.html)
 
-# Otros
+## Otros
 
 - [Long scroll page](webs/scroll-example-page.html)
 - [Formulario](webs/form.html)
 - [Carga de imagenes al bajar la ventana](webs/lazy-loading-images.html)
+- [Lista de elementos con botones pero sin id](webs/button-without-id.html)
